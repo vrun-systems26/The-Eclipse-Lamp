@@ -4,7 +4,7 @@ Mechanical Iris Construction    Date: 6/26/26, Time: 9:49 PM
 
 This is the link I used to get all 5 parts for the construction: https://www.thingiverse.com/thing:5170139/files#google_vignette (Credits to Lore09)
 
-Note: Print it the same color as you printed the lampshade in so it blends in and looks less obvious.
+Note: Print it the same color as you printed the lampshade in so it blends in and looks less obvious for the spy effect.
 
 If it is needed and the tolerences are too little and the gears dont mesh properly or the outer rings dont fit properly, sand it down because the SG90 servo can't handle too much friction.
 
