@@ -3,7 +3,7 @@
 A fully normal-looking modern lamp that secretly conceals a covert camera system — complete with a mechanical iris that rotates to reveal a camera that peeks at the room, activates AI person detection for your security, sends real-time alerts to your phone.
 
 
-### Core Concept:
+## Core Concept:
 
 From the outside, it's just a lamp on your desk or shelf. It lights up like one, sits like one, and does nothing to suggest otherwise. Hidden inside is a Raspberry Pi-powered camera system, covered by a mechanical iris that only opens periodically to scan the room. When the onboard AI detects a person, it sends you a notification and the camera "locks on" to their last known position.
 
