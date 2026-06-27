@@ -7,6 +7,7 @@ This is the link I used to get all 5 parts for the construction: https://www.thi
 Note: Print it the same color as you printed the lampshade in so it blends in and looks less obvious.
 
 If it is needed and the tolerences are too little and the gears dont mesh properly or the outer rings dont fit properly, sand it down because the SG90 servo can't handle too much friction.
+_
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/7eab30f6-f791-4e9d-9f34-dbde1e8312fb" />
 
 
