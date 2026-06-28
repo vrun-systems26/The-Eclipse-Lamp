@@ -20,3 +20,6 @@ If it is needed and the tolerences are too little and the gears dont mesh proper
 <img width="250" height="312" alt="Screenshot 2026-06-27 173519" src="https://github.com/user-attachments/assets/a86f06f5-c0ef-4140-8418-eeada9042f11" />
 
 
+  The two pictures to the right depict the final construction of the mechanical iris, including the SG90 Servo. It is powered for testing by an ELEGOO UNO using claude code to evaluate the physical limits of the SG90 and determine the necessary range of movement.
+
+
