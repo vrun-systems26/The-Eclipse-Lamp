@@ -27,7 +27,7 @@ Mechanical iris — servo-driven cover that opens/closes on a timed loop, mimick
 
 Idle pan sweep — slow side-to-side motion during downtime, no live feedback loop required
 
-On-device AI person detection — lightweight model (e.g. YOLOv8n, MobileNet-SSD, or Pi AI Camera) running locally on the Pi
+On-device AI person detection — lightweight model (e.g. YOLOv8n) running locally on the Pi
 
 Push notifications — alerts sent to phone/computer on detection (e.g. via Pushover, ntfy, or a Telegram bot)
 
