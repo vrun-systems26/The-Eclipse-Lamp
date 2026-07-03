@@ -1,4 +1,4 @@
-
+#In terminal type nano server.py and paste this entire code, then ctr X, Y, Enter
 
 from flask import Flask, Response
 from picamera2 import Picamera2
