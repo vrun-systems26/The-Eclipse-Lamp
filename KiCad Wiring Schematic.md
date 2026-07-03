@@ -9,6 +9,7 @@ remaining components, including the servos, power connections, and a USB-A conne
 easier to add to the wiring.
 
 
-<img width="1365" height="719" alt="Screenshot 2026-06-30 175617" src="https://github.com/user-attachments/assets/b2b29d9e-f56f-4387-8219-686f5f12e054" />
+<img width="989" height="586" alt="image" src="https://github.com/user-attachments/assets/45fecea4-9311-4f71-a2f4-5eda8c6a45c7" />
+
 
 
