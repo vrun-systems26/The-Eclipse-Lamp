@@ -1,4 +1,4 @@
-#!/bin/bash
+#Before Bashing SSH into your Raspberry Pi
 
 # Update Raspberry Pi
 sudo apt update
