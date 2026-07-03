@@ -2,6 +2,8 @@
 
 A fully normal-looking modern lamp that secretly conceals a covert camera system, complete with a mechanical iris that rotates to reveal it, activating AI person detection for your security, while sending real-time alerts to your phone.
 
+[![License: MIT](https://shields.io)](https://opensource.org)
+[![build](https://shields.io)](https://github.com)
 __________________________________________________________________________________________________________________________________________
 
 ## Principle of Operation (How it works):
