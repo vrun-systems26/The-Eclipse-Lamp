@@ -21,3 +21,6 @@ cd ~/eclipse_lamp
 # Create Python virtual environment
 python3 -m venv venv
 source venv/bin/activate
+
+# If picamera2 gives errors
+sudo apt install python3-picamera2
