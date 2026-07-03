@@ -3,6 +3,8 @@ source venv/bin/activate
 
 python3 detect_test.py
 
+#For some the quality might be bad or there might be lag, I will fix that later in another file
+
 #__________________________
 #Other Helpful Commands:
 
