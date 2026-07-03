@@ -1,5 +1,3 @@
-#!/bin/bash
-
 cd ~/eclipse_lamp
 source venv/bin/activate
 
