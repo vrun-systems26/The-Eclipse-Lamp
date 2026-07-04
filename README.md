@@ -2,8 +2,14 @@
 
 A fully normal-looking modern lamp that secretly conceals a covert camera system, complete with a mechanical iris that rotates to reveal it, activating AI person detection for your security, while sending real-time alerts to your phone.
 
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![build](https://shields.io)](https://github.com)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![status](https://img.shields.io/badge/status-in%20progress-orange)
+![Hackathon](https://img.shields.io/badge/Hack%20Club-Starhacks-blue)
+![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![AI Model](https://img.shields.io/badge/AI-YOLOv8n-purple)
+![Notifications](https://img.shields.io/badge/Alerts-Pushover%20%7C%20ntfy%20%7C%20Telegram-orange)
+![Camera](https://img.shields.io/badge/Camera-Pi%20Camera%20Module-lightgrey)
+![Servo](https://img.shields.io/badge/Actuator-SG90%20Servo-blue)
 __________________________________________________________________________________________________________________________________________
 
 ## Principle of Operation (How it works):
