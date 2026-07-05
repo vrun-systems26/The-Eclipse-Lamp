@@ -16,12 +16,6 @@ https://www.tinkercad.com/things/4sCSidpWXKK-camera-to-iris-frame
 Note: You can either screw or hot/super glue this to the back of the mechanical iris model because the 5 holes line up
 ______________________________________________________________________________________________________________________________________
 
-This model is a bit much on my part but one of the problems I had with the iris mechanism is I couldn't lay it flat against the 
-inner wall of the top shell to fit through the hole, so I had to make something that glued onto the face of the Iris plate that covered
-all the gears(the one that is ontop of the circle portion) because I couldn't glue anything to the servo gear. That part would then fit 
-through the hole I made in the lamp shell and I would glue it so it would stay connected to the hole and wall. The Iris shutter and camera
-would then still be able to see and at a proper angle.  
-
 Iris Face Extension CAD Model:
 
 https://www.tinkercad.com/things/hxFdiQ4EfAx-iris-face-extension
