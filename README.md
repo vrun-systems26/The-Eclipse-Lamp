@@ -7,7 +7,7 @@ A fully normal-looking modern lamp that secretly conceals a covert camera system
 ![Hackathon](https://img.shields.io/badge/Hack%20Club-Starhacks-blue)
 ![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
 ![AI Model](https://img.shields.io/badge/AI-YOLOv8n-purple)
-![Notifications](https://img.shields.io/badge/Alerts-Pushover%20%7C%20ntfy%20%7C%20Telegram-orange)
+![Notifications](https://img.shields.io/badge/Alerts-Pushover%20%7C%20ntfy%20%7C%20Telegram-green)
 ![Camera](https://img.shields.io/badge/Camera-Pi%20Camera%20Module-lightgrey)
 ![Servo](https://img.shields.io/badge/Actuator-SG90%20Servo-blue)
 __________________________________________________________________________________________________________________________________________

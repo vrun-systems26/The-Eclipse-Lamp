@@ -1,4 +1,4 @@
-# Top Lamp Construction |  Date: 7/3/26  |
+# Top Lamp Construction
 
   This part forms the lamp's top stand, housing the mechanical iris/camera and lamp module. I researched wall thickness for optimal
 light diffusion, settling on 0.8mm with white filament, then modeled a hollowed 150mm x 150mm x 150mm cube in Onshape, leaving a 3mm tall
@@ -13,8 +13,10 @@ find and most important thing I did to reduce time, was use Spiralized Outer Con
 reduces the strength of the walls drastically, it lets light shine through better and prints significantly faster. I ended with 5 hours 
 38 minutes of print time. 
 
-Note: I discussed this earlier in this passage but print the shell in a light color like white or even translucent for the light to shine
+Note: I discussed this earlier in this passage but print the shell in a light color like white or even translucent for the light to shine properly
 
 
 <img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/bba86cb9-1ca7-4c0e-a321-b958a77e4db5" />
 <img width="1365" height="633" alt="image" src="https://github.com/user-attachments/assets/5404677b-d530-4cf3-b667-90f312cb6d70" />
+
+The Images here depict the Top shell being sliced and getting ready for printing in Ultimaker Cura, and it being modeled in Tinkercad at first, respectively.
