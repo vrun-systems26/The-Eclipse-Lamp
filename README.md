@@ -201,5 +201,5 @@ ________________________________________________________________________________
 + YOLOv8 Nano (yolov8n.pt)
 + VNC Viewer (for remote Raspberry Pi desktop access)
 + 3D printer slicer (Cura)
-+ People/Help (My friend Rishith helped with me get better aquainted with Github)
++ People/Help (My friend Rishith(rishithc) helped me getting better aquainted with Github)
 + ChatGPT and Claude (for debugging, troubleshooting, explaining concepts, and helping develop the software pipeline)
