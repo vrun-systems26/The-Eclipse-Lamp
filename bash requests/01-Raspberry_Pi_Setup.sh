@@ -1,4 +1,4 @@
-#Before Bashing SSH into your Raspberry Pi
+#Bash SSH into your Raspberry Pi
 
 # Update Raspberry Pi
 sudo apt update
@@ -21,6 +21,12 @@ cd ~/eclipse_lamp
 # Create Python virtual environment
 python3 -m venv venv
 source venv/bin/activate
+
+# Increase swap space for torch installation
+sudo dphys-swapfile swapoff
+sudo sed -i 's/CONF_SWAPSIZE=.*/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
+sudo dphys-swapfile setup
+sudo dphys-swapfile swapon
 
 # If picamera2 gives errors
 sudo apt install python3-picamera2

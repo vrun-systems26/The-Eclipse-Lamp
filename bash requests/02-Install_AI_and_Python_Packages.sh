@@ -1,21 +1,7 @@
 cd ~/eclipse_lamp
+python3 -m venv venv --system-site-packages
 source venv/bin/activate
-
-# Install compatible NumPy first
 pip install numpy==1.26.4
-
-# Install Ultralytics (YOLO)
-pip install ultralytics
-
-# Install browser streaming packages
-pip install flask opencv-python
-
-# Test YOLO installation
-python3 -c "from ultralytics import YOLO; print('YOLO Installed!')"
-
-#If YOLO says "ModuleNotFoundError"
-source ~/eclipse_lamp/venv/bin/activate
-pip install ultralytics
-
-#If pip upgrades numpy to version 2.x
-pip install numpy==1.26.4 --force-reinstall
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+pip install ultralytics flask onnxruntime
+python3 -c "from ultralytics import YOLO; model = YOLO('yolov8n.pt'); model.export(format='onnx', imgsz=640)"
