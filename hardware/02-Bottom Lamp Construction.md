@@ -14,9 +14,11 @@ cut this to 6:50. Trimming the Pi case's side walls brought it to 6:27, then fin
 
   Note: I will print this in a dark color so light doesn't shine through and there is contrast between it and the top shell.
 
-<img width="1365" height="632" alt="Screenshot 2026-06-30 204056" src="https://github.com/user-attachments/assets/b2f604df-043d-48e5-b7ed-f2ee70652fe3" />
 <img width="1365" height="678" alt="Screenshot 2026-07-01 215551" src="https://github.com/user-attachments/assets/f9d41065-73da-416a-a982-fa01f08e25ab" />
 <img width="1365" height="718" alt="Screenshot 2026-07-01 215913" src="https://github.com/user-attachments/assets/9693aab7-b231-4d71-8679-6b97f29d492f" />
+<img width="4032" height="3024" alt="C49B47B5-8ADB-44E6-96B4-0BD2513038C7" src="https://github.com/user-attachments/assets/c734df45-e601-45a8-9f30-9d27ed4a514c" />
+<img width="4032" height="3024" alt="C98A9200-637C-4262-B7E0-CE46DB617DB0" src="https://github.com/user-attachments/assets/eb9ee28b-8f35-4a9a-929e-16bdfc086cfc" />
 
-The images here depict: The first stage of the Bottom lamp, the final stage of the bottom lamp taken from Tinkercad into Onshape, and the final stage in Ultimaker Cura sliced and ready to print, respectively.
+
+The images here depict: The final stage of the bottom lamp taken from Tinkercad into Onshape, and the final stage in Ultimaker Cura sliced and ready to print, and 2 pictures of the printed bottom with the iris, respectively.
 
