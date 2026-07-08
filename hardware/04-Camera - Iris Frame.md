@@ -11,5 +11,7 @@ the 5 screw holes are very small in diameter so if needed you can hot glue or su
 
 
 <img width="1365" height="630" alt="image" src="https://github.com/user-attachments/assets/5200afb8-2fe9-444a-9d81-4f27905cf2e3" />
+<img width="3024" height="4032" alt="24BFF62A-1250-4E83-8DCA-EC831544BE9F" src="https://github.com/user-attachments/assets/4c7f8da9-b876-42eb-919f-7fec5d23e625" />
+<img width="3024" height="4032" alt="6FDA4926-816A-4AE2-A664-DECBD119924C" src="https://github.com/user-attachments/assets/02fe31de-5baa-4729-80e8-28492d8a07f5" />
 
-This image depicts the model in Tinkercad after being worked on.
+These images depict the Tinkercad model and the complete iris with the camera attached to the frame attached to the iris.
